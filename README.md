@@ -232,7 +232,6 @@ const kayan = {
 <br/><br/>
 
 <!-- Trophy showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=KayanTahir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 
 </div>
 
