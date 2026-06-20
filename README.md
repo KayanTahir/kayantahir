@@ -180,9 +180,9 @@ const kayan = {
 
 <div align="center">
 
-![Kayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=E6EDF3)
+![Kayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayanTahir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=E6EDF3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KayanTahir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=E6EDF3)
 
