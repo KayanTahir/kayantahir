@@ -10,7 +10,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=NestJS+%26+Node.js+Backend+Engineer;React.js+%26+Next.js+Frontend+Dev;Building+Scalable+Full+Stack+Apps;Learning+AI+Integration+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=NestJS+%26+Node.js+Backend+Engineer;React.js+%26+Next.js+Frontend+Dev;ERP+%7C+CRM+%7C+Supply+Chain+Systems;RFQ+%7C+ACS+%7C+Real-Time+Apps;Building+Enterprise-Grade+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,8 +23,10 @@ const kayan = {
   name:      "Kayan Tahir",
   role:      "Full Stack Developer",
   focus:     ["NestJS", "Node.js", "React.js", "Next.js"],
+  shipped:   ["ERP", "CRM", "ACS Server", "RFQ System",
+              "Supply Chain", "Payroll", "Rental & Property Mgmt"],
   learning:  "Advanced backend architecture & AI integration",
-  building:  "Scalable web apps that solve real problems",
+  building:  "Enterprise-grade systems that scale",
   motto:     "Clean code. Ship fast. Iterate.",
 };
 ```
@@ -62,20 +64,99 @@ const kayan = {
 
 ## `~/projects --featured`
 
+> 🏗️ **8 production-grade systems built** — from real-time servers to full ERP suites
+
 <table>
 <tr>
 <td width="50%">
 
 ### 🏢 Property Management System
-> Full-stack platform for managing properties end-to-end
+> End-to-end platform for properties, tenants & leases
 
-**What it does:**
-- Manage properties, units & tenants
-- Handle leases and payment tracking
+- Multi-unit property & tenant management
+- Lease lifecycle and payment tracking
 - Role-based access control
 
-**Stack:**
 `React.js` · `NestJS` · `MySQL` · `Sequelize`
+
+</td>
+<td width="50%">
+
+### 🏠 Rental Management System
+> Smart rental operations for landlords & agents
+
+- Booking, availability & contract management
+- Automated rent reminders & payment logs
+- Tenant portal with document uploads
+
+`React.js` · `NestJS` · `MySQL` · `Sequelize`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 ACS Server
+> Auto Configuration Server for device provisioning
+
+- TR-069 protocol implementation
+- Remote device management & monitoring
+- Real-time configuration push & diagnostics
+
+`Node.js` · `NestJS` · `WebSockets` · `MySQL` · `Redis` · `MQTT`
+
+</td>
+<td width="50%">
+
+### 💬 CRM System
+> Customer Relationship Management platform
+
+- Lead pipeline & sales stage tracking
+- Customer interaction history & follow-ups
+- Dashboard analytics and team activity feed
+
+`React.js` · `NestJS` · `MySQL` · `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏭 ERP System *(Full Suite)*
+> Enterprise Resource Planning — end-to-end
+
+- **Supply Chain** — procurement to delivery
+- **Payroll** — salary, deductions & payslips
+- **Purchase** — PO management & vendor tracking
+- **Inventory** — stock control & warehouse ops
+
+`React.js` · `NestJS` · `MySQL` · `Sequelize` · `Docker`
+
+</td>
+<td width="50%">
+
+### 📋 RFQ Management System
+> Request for Quotation workflow engine
+
+- Multi-vendor RFQ creation & dispatch
+- Quote comparison and approval workflows
+- Auto-convert RFQ → Purchase Order
+
+`React.js` · `NestJS` · `MySQL` · `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔗 Supply Chain Management
+> Full procurement-to-delivery visibility
+
+- Supplier onboarding & evaluation
+- Real-time shipment and order tracking
+- Inventory sync across warehouses
+
+`React.js` · `NestJS` · `WebSockets` · `MySQL`
 
 </td>
 <td width="50%">
@@ -83,12 +164,10 @@ const kayan = {
 ### 🤖 AI Health Tracker *(Concept)*
 > AI-powered health analytics and insight engine
 
-**Vision:**
-- Analyze personal health data
+- Analyze personal health data inputs
 - Surface actionable insights via AI
 - Intuitive, minimal dashboard UI
 
-**Stack:**
 `Node.js` · `React.js` · `AI/ML`
 
 </td>
